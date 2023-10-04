@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PakshalS
-- 👀 I’m interested in Android and Application Development
+- 👀 I’m interested in Web Development
 
 
 
