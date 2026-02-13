@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pakshalhere/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://github.com/PakshalS">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://pakshalhere.vercel.app/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
